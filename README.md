@@ -1,2 +1,14 @@
-# AutomacaoExtratoPIS
-Automatiza a inserção de dados de uma planilha Excel em aplicativos ou sites com Python, economizando tempo e reduzindo erros manuais. Ideal para iniciantes em automação com Python
+
+# AutomacaoPlanilhaExtrato
+
+## Instruções de Uso:
+
+  - Certifique-se de ter as bibliotecas PyAutoGUI e OpenPyXL instaladas no seu ambiente Python.
+  - Configure o caminho do arquivo Excel na linha que carrega a planilha, se necessário.
+  - Execute o código, e ele automatizará a inserção de dados da planilha em um aplicativo ou site.
+
+
+## Autor
+
+[Mathy.ptes](https://github.com/M4thy5)
+
